@@ -1,0 +1,27 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Basic backend for a flashcard application.",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-wolowicz/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "node",
+    "flashcard"
+  ],
+  "author": "Melissa Wolowicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m-wolowicz/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/m-wolowicz/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^5.0.0"
+  }
+}
