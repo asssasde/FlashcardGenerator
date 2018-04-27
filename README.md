@@ -1,12 +1,7 @@
 # Flashcard-Generator
 
-Trilogy Education Services Full-Stack Web Developer Program
 
-University of Miami Cohort - 201710FSF3
-
-Week 11 Advanced JavaScript Assignment: Cloze Constructors:
-
-Create the backend for a basic flashcard application.
+Backend for a basic flashcard application.
 
 ### Overview
 
@@ -75,8 +70,4 @@ See below for examples as to how your constructor should behave.
 The bulk of this assignment is implementing `ClozeCard`. If you build a robust `ClozeCard` implementation, feel free to try your hand at implementing a front-end, as well.
 
 
-### Bonuses
 
-* Write your constructors such that users can call them with or without the `new` keyword. 
-
-  * Look up scope-safe constructors, and try to implement them. It takes only two additional lines of code.
